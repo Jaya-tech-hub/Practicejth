@@ -1,15 +1,9 @@
 <html>
 
 <head>
-<center>
-<h1><font color="red">Nobugs Technology</font></h1> 
-
+<h1><font color="red">Offers Occured</font></h1> 
 </head>
 <body>
-</center>
-  
- 
- 
 <h1><font color="red">Cantact Us </font> </h1>
 <ul>
   <li><b>Phone No :</b> XXX3062190</li><br>

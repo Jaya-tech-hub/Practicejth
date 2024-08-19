@@ -1,15 +1,1 @@
-<html>
-
-<head>
-<h1><font color="red">Offers Occured</font></h1> 
-</head>
-<body>
-<h1><font color="red">Cantact Us </font> </h1>
-<ul>
-  <li><b>Phone No :</b> XXX3062190</li><br>
-  <li><b>Mail id :</b> jayalak444@gmail.com</li>
-</ul>
-</body>
-</html>
-
-
+This code is not Wright .So  i had deleted.
